@@ -12,3 +12,5 @@ driver.find_element(By.ID,"checkBoxOption1").click()
 driver.find_element(By.NAME,"checkBoxOption2").click()
 driver.find_element(By.CSS_SELECTOR,"input[value='radio2']").click()
 time.sleep(2)
+
+
